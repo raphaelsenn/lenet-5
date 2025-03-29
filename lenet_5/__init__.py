@@ -1,1 +1,1 @@
-from lenet_5.helpers import Subsampling
+from lenet_5.lenet_5 import LeNet5
