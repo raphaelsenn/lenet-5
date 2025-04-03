@@ -9,7 +9,7 @@ LeNet-5 (modern) after 20 epochs:
 ```text
 (train set)     epoch: 19       loss: 0.0034    acc: 0.9990     mcr: 0.0010     correct: 59939  miss: 61 
 ```
-Trained (20 epochs) LeNet-5 (modern) on testing set:
+Trained (20 epochs) LeNet-5 on testing set:
 
 ```text
 (test set)      loss: 0.0462    acc: 0.9882     mcr: 0.0118     correct: 9882   miss: 118
